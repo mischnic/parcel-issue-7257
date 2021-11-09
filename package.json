@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "api": "serve",
+    "query": "curl localhost:1234/api/data"
+  },
+  "dependencies": {
+    "parcel": "^2.0.1",
+    "serve": "^13.0.2"
+  }
+}
