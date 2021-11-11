@@ -1,6 +1,7 @@
 {
+  "source": "src/index.html",
   "scripts": {
-    "start": "parcel index.html",
+    "start": "parcel",
     "api": "serve",
     "query": "curl localhost:1234/api/data"
   },
